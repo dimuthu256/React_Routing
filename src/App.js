@@ -8,7 +8,8 @@ class App extends Component {
     return (
       <BrowserRouter>
         <div className="App">
-          <Blog />
+        <h1>React Routing</h1> 
+	 <Blog />
         </div>
       </BrowserRouter>
     );
